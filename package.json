@@ -1,0 +1,25 @@
+{
+  "name": "jm-copy-base64",
+  "version": "0.0.1",
+  "description": "A useful node_module to copy file by base64.",
+  "main": "copy-base64.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenJiaH/jm-copy-base64.git"
+  },
+  "keywords": [
+    "jm",
+    "copy",
+    "base64"
+  ],
+  "author": "McChen",
+  "email": "chenjiahao@jd.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChenJiaH/jm-copy-base64/issues"
+  },
+  "homepage": "https://github.com/ChenJiaH/jm-copy-base64#readme"
+}
